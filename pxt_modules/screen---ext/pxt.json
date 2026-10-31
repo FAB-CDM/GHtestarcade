@@ -1,0 +1,32 @@
+{
+    "name": "screen---ext",
+    "description": "The screen library",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "screen.cpp",
+		"crcgameengine.cpp",
+        "panic.cpp",
+        "image.cpp",
+        "image.ts",
+        "screenimage.ts",
+        "text.ts",
+        "frame.ts",
+        "shims.d.ts",
+        "fieldeditors.ts",
+        "targetoverrides.ts",
+        "ns.ts",
+        "image.d.ts",
+        "pxtparts.json",
+        "imagesoverrides.jres",
+        "imagesoverrides.ts",
+        "font12.jres"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "4.1.6",
+        "pxt": "13.1.5"
+    },
+    "hidden": true
+}

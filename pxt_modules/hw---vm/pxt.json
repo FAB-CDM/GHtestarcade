@@ -1,0 +1,28 @@
+{
+    "name": "hw---vm",
+    "description": "VM",
+    "dependencies": {
+        "core---vm": "*",
+        "mixer---ext": "*",
+        "screen---ext": "*",
+        "settings---files": "*",
+        "game": "*"
+    },
+    "files": [
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "4.1.6",
+        "pxt": "13.1.5"
+    },
+    "hidden": true,
+    "card": {
+        "name": "VM",
+        "description": "VM",
+        "learnMoreUrl": "https://arcade.makecode.com/hardware#vm",
+        "cardType": "hw"
+    },
+    "compileServiceVariant": "vm",
+    "skipLocalization": true,
+    "experimentalHw": true
+}
